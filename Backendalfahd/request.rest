@@ -1,0 +1,6 @@
+POST http://localhost:5000/products Content-Type: application/json
+{
+    "name": "abc",
+    "slug": "#abc",
+    "description": "Mongoose is a MongoDB client library providing object-modelling for use in an asynchronous environment. Mongoose supports both promises and callbacks."
+}
